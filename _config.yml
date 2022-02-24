@@ -87,3 +87,5 @@ exclude:
   - .Rproj.user/
 
 remote_theme: carpentries/carpentries-theme
+
+theme: jekyll-theme-modernist
